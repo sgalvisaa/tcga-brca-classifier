@@ -1,0 +1,6 @@
+"pam50","n","called_tumor","sensitivity"
+"Basal",173,173,1
+"Her2",73,73,1
+"LumA",500,497,0.994
+"LumB",187,187,1
+"Normal",38,30,0.789

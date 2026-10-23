@@ -1,0 +1,4 @@
+"model","correct","n","accuracy","sensitivity_tumor","specificity","false_neg","false_pos"
+"SVM (radial)",66,68,0.971,1,0.941,0,2
+"Logistic regression (30 PCs)",67,68,0.985,0.971,1,1,0
+"Random forest",67,68,0.985,1,0.971,0,1

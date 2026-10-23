@@ -1,0 +1,14 @@
+# Raw and prepared TCGA data (several GB, re-created by R/01_get_data.R)
+GDCdata/
+data/
+MANIFEST.txt
+*.rds
+
+# Working notes
+tcga brca classifier script 113.R
+
+# R / OS
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
